@@ -1,0 +1,12 @@
+; Syntax error compiling at (src/first-non-repeating-character.clj:30:17).
+; No such namespace: string
+clj꞉first-non-repeating-character꞉> 
+; Syntax error compiling at (src/first-non-repeating-character.clj:30:17).
+; No such namespace: string
+clj꞉first-non-repeating-character꞉> 
+nil
+clj꞉first-non-repeating-character꞉> 
+#'first-non-repeating-character/solution-3
+clj꞉first-non-repeating-character꞉> 
+\c
+clj꞉first-non-repeating-character꞉> 
